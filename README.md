@@ -1,5 +1,5 @@
 ![MasterHead](https://media.licdn.com/dms/image/D4E16AQGr6BIeQ46iTA/profile-displaybackgroundimage-shrink_350_1400/0/1683643160569?e=1700697600&v=beta&t=y5WreM41zSkYIIwi_-yp_-12SaWMQa8dvwCfkjKwl0U)
-<h1 align="left">¡Hi! I'm Axel Chacón.</h1>
+<h1 align="left">Hi! I'm Axel.</h1>
 <p align= "left">I am video game, programming, design and every form of art passionate. in my free time i like to study, desing and create stuff, either 2D or 3D. I really enjoy what i do and like to be on constant learning
 <p align= "left"> I like to share my ideas and I appreciate that others do too!.</p>
  
